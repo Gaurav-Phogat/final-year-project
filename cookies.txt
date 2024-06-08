@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+okstartups.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+okstartups.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_02c1800dcec12c2db675ba880acae944	t_8edd4febca8034afe22d7626648a19%7C%7C1718005713%7C%7C1718002113%7C%7Ca555e67cf8d3871f84d65bd884a5b385
+okstartups.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+okstartups.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	639735bbb0444e304d9073588e00e398
+
